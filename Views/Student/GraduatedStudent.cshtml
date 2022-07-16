@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model WebAppStudentMVC.Models.ViewModels.StudentViewModel
+
+<h1 class="display-5 m-5">@ViewData["title"]</h1>
+
+<div class="container">
+    <!-- validar que la lista tenga dato -->
+    @if( Model.Students.Count == 0)
+    {
+        <div class="alert alert-info">
+            ¡No existen datos para mostrar!
+        </div>
+    } else {
+        <table class="table table-hover">
+            <thead class="thead-light">
+                <tr >
+                <th>Nombre completo</th>
+                <th>Rut</th>
+                <th>Dirección</th>
+                <th>Carrera</th>
+                <th>Email</th>
+                <th>Fecha matricula</th>
+                <th>Estado alumno</th>
+            </tr>
+            </thead>
+            <tbody>
+                @foreach( Student student in Model.Students )
+                {
+                    <tr>
+                        <td>@student.FirstName @student.LastName</td>
+                        <td>@student.Dni</td>
+                        <td>@student.Address</td>
+                        <td>@student.Carrear</td>
+                        <td>@student.Email</td>
+                        <td>@student.StartDate.ToShortDateString()</td>
+                        <td>@student.StateStudent</td>
+                    </tr> 
+                }
+            </tbody>
+            
+        </table>
+        <div class="text-right">
+            Cantidad de alumnos titulados: @Model.StudentCount
+        </div>
+    }
+</div>

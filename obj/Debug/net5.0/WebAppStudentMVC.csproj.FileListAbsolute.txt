@@ -1,0 +1,81 @@
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.exe
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.deps.json
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.runtimeconfig.json
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.runtimeconfig.dev.json
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.Views.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.Views.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.AssemblyReference.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.AssemblyInfoInputs.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.AssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.CoreCompileInputs.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorAssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\scopedcss\bundle\WebAppStudentMVC.styles.css
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\staticwebassets\WebAppStudentMVC.StaticWebAssets.Manifest.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.TagHelpers.input.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.TagHelpers.output.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorCoreGenerate.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorTargetAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorTargetAssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.Views.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\refint\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.genruntimeconfig.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\ref\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\Seccion 2\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.CopyComplete
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.exe
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.deps.json
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.runtimeconfig.json
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.runtimeconfig.dev.json
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.Views.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\bin\Debug\net5.0\WebAppStudentMVC.Views.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.AssemblyReference.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.AssemblyInfoInputs.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.AssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.CoreCompileInputs.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorAssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\scopedcss\bundle\WebAppStudentMVC.styles.css
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\staticwebassets\WebAppStudentMVC.StaticWebAssets.Manifest.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.TagHelpers.input.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.TagHelpers.output.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorCoreGenerate.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorTargetAssemblyInfo.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.RazorTargetAssemblyInfo.cs
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.Views.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\refint\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.pdb
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.genruntimeconfig.cache
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\ref\WebAppStudentMVC.dll
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\WebAppStudentMVC.csproj.CopyComplete
+C:\Users\grebolledoa\source\repos\LPW 2022\WebAppStudentMVC\obj\Debug\net5.0\Razor\Views\Student\GraduatedStudent.cshtml.g.cs
